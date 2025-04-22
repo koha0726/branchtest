@@ -1,5 +1,5 @@
 title:リーダブルコード
 
-author:ダスティン・ボズウェル
+author:Dustin Boswell
 
 information:より良いコードを書くためのシンプルで実践的なテクニック
