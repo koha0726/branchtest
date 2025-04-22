@@ -4,4 +4,4 @@ author:Dustin Boswell
 
 information:より良いコードを書くためのシンプルで実践的なテクニック
 
-url:https://amzn.to/44vox56
+price:2640円
